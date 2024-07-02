@@ -1,0 +1,14 @@
+{"@timestamp":"22:42:56 02/07/2024","file":"/home/pmh/code/go-elk/main.go:29","func":"main.main","level":"info","message":"Hello World"}
+{"@timestamp":"23:27:12 02/07/2024","file":"/home/pmh/code/go-elk/main.go:30","func":"main.main","level":"info","message":"Hello World"}
+{"@timestamp":"23:27:27 02/07/2024","file":"/home/pmh/code/go-elk/main.go:30","func":"main.main","level":"info","message":"Hello World"}
+{"@timestamp":"23:32:03 02/07/2024","file":"/app/main.go:30","func":"main.main","level":"info","message":"Hello World"}
+{"@timestamp":"23:39:05 02/07/2024","file":"/app/main.go:30","func":"main.main","level":"info","message":"Hello World"}
+{"@timestamp":"23:40:57 02/07/2024","file":"/app/main.go:38","func":"main.main.func1","level":"info","message":"ping"}
+{"@timestamp":"23:41:21 02/07/2024","file":"/app/main.go:38","func":"main.main.func1","level":"info","message":"ping"}
+{"@timestamp":"2024-07-02T23:44:59.844+0700","ecs.version":"1.6.0","log.level":"info","log.origin.file.line":25,"log.origin.file.name":"/app/main.go","log.origin.function":"main.main","message":"Hello World"}
+{"@timestamp":"23:52:33 02/07/2024","file":"/app/main.go:30","func":"main.main","level":"info","message":"Hello World"}
+{"@timestamp":"23:58:40 02/07/2024","file":"/app/main.go:38","func":"main.main.func1","level":"info","message":"ping"}
+{"@timestamp":"00:03:12 03/07/2024","file":"/app/main.go:38","func":"main.main.func1","level":"info","message":"ping"}
+{"@timestamp":"00:03:14 03/07/2024","file":"/app/main.go:38","func":"main.main.func1","level":"info","message":"ping"}
+{"@timestamp":"00:09:38 03/07/2024","file":"/app/main.go:30","func":"main.main","level":"info","message":"Hello World"}
+{"@timestamp":"2024-07-03T00:13:10.430+0700","ecs.version":"1.6.0","log.level":"info","log.origin.file.line":25,"log.origin.file.name":"/app/main.go","log.origin.function":"main.main","message":"Hello World"}
